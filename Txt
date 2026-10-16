@@ -1,0 +1,86 @@
+Create a professional, executive-level single-slide PowerPoint presentation for a Shark Tank innovation submission titled “Workbook Validation Tool.”
+
+The slide must be clear, concise, visually appealing, and easy for senior leaders and judges to understand within 30–60 seconds. Use a professional Synchrony-inspired corporate theme with a navy-blue background or header, white content areas, and yellow accents. Use clean typography, simple icons, and a structured layout.
+
+Mandatory Headings
+
+Use these four headings exactly as provided:
+
+1. Solution Summary
+2. Expected Implementation & Value
+3. Business Alignment
+4. Supporting Files
+
+Content Requirements
+
+1. Solution Summary
+
+Explain that the Workbook Validation Tool is a centralized, GenAI-powered solution that automates workbook retrieval and validation across three teams: COPS, MQA, and Channel Marketing.
+
+Highlight these capabilities:
+
+* Workfront integration to retrieve task details and locate the relevant workbook.
+* Automated workbook download, with a manual-upload fallback.
+* Team-specific validation rules and prompts.
+* PII masking before AI review.
+* AI-assisted identification of potential workbook errors and inconsistencies, with results presented for user review.
+
+2. Expected Implementation & Value
+
+Present the implementation approach:
+
+* Finalize team-specific prompts and validation rules.
+* Complete functional testing and user acceptance testing.
+* Roll out the solution and onboard the participating teams.
+* Measure adoption, validation time, and actual business benefits.
+
+Highlight the following business metrics prominently:
+
+* 3 teams supported
+* Approximately 150 potential users
+* Approximately 6,800 hours/year projected savings for MQA and Channel Marketing
+* COPS target: approximately 50% reduction in annual validation time
+* Workbook review time target: reduce from 15 minutes to 2–3 minutes
+
+Clearly label these figures as projected estimates or targets, not realized results. Do not combine the COPS savings with the 6,800-hour estimate.
+
+3. Business Alignment
+
+Show four concise strategic alignments:
+
+* Operational Excellence: Reduce repetitive manual validation effort.
+* Digital Transformation: Integrate workbook retrieval and validation into one workflow.
+* Responsible AI: Mask PII before AI review and retain user oversight.
+* Quality & Risk Management: Help identify potential errors and inconsistencies.
+
+4. Supporting Files
+
+List the evidence available or planned for submission:
+
+* Tool interface screenshots.
+* Solution workflow diagram.
+* Business-savings calculation.
+* Sample validation findings.
+* Testing or pilot results, where available.
+
+Slide Design and Layout
+
+* Use a 16:9 widescreen slide.
+* Place the title and a short value proposition at the top.
+* Display four compact KPI cards below the title.
+* Arrange the four mandatory sections in a clean two-column layout.
+* Use minimal text, meaningful icons, and strong visual hierarchy.
+* Make all text readable when projected on a large screen.
+* Avoid paragraphs that are too long, decorative graphics, and unnecessary technical details.
+* Do not repeat the same information across multiple sections.
+* Use consistent spacing, alignment, and professional corporate styling.
+* End with a short business outcome statement: “Faster Reviews | Consistent Validation | Responsible AI | Scalable Automation.”
+
+Accuracy Requirements
+
+* Do not invent realized savings, implementation status, customer results, or pilot outcomes.
+* Clearly distinguish projections from verified results.
+* Do not claim that the tool eliminates all errors or replaces human review.
+* Keep the slide focused on business value, innovation, risk management, and scalability.
+
+Deliverable: Generate one fully editable PowerPoint slide, not a document or a multi-slide presentation.
