@@ -1,0 +1,11 @@
+1. The Manual Process Today
+Teams manually locate and retrieve workbooks, review their content, and perform team-specific validation checks. This requires repetitive effort and makes the process time-consuming.
+2. The Proposed Solution
+A centralized, GenAI-powered workflow that retrieves workbooks from Workfront, masks sensitive information before AI review, and applies team-specific validation rules to identify potential issues for user review.
+3. Update the main title area
+Keep:
+Workbook Validation Tool
+Replace the subtitle with:
+One platform for automated workbook retrieval and AI-assisted validation.
+Keep the team names below:
+COPS | MQA | Channel Marketing
